@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola soc Sergi
+=======
+Hola soc Diego
+>>>>>>> bc763e4fe940952b163bc6375af97c369d335df2
